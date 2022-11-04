@@ -1,0 +1,7 @@
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\bin\Debug\CustomerBL.dll
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\bin\Debug\CustomerBL.pdb
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\bin\Debug\CustomerDL.dll
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\bin\Debug\CustomerDL.pdb
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\obj\Debug\CustomerBL.csprojResolveAssemblyReference.cache
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\obj\Debug\CustomerBL.dll
+C:\Users\jay-dev\documents\visual studio 2013\Projects\3_tier_Demo\CustomerBL\obj\Debug\CustomerBL.pdb
